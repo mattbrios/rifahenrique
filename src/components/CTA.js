@@ -15,15 +15,21 @@ const CustomButton = styled.button`
   cursor: pointer;
   transition: filter 0.25s;
 
-  &:hover {
+  &:hover:not(:disabled) {
     filter: brightness(1.5);
+  }
+
+  &:disabled {
+    background-color: var(--disabled);
+    cursor: not-allowed;
+    opacity: 0.5;
   }
 `;
 
 export const CTA = (props) => {
   return (
     <CustomButton
-      onClick={props.onClick}
+      {...props}
     >
       {props.children}
     </CustomButton>

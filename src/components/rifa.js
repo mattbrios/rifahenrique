@@ -7,12 +7,12 @@ const rifa = [
   {
     number: 2,
     name: "Edilene",
-    image: "./photos/edilene.jpeg"
+    image: "./photos/edilene.jpg"
   },
   {
     number: 3,
     name: "Paula prima torta",
-    image: "./photos/paula.jpeg"
+    image: "./photos/paula.jpg"
   },
   {
     number: 4,
@@ -22,42 +22,42 @@ const rifa = [
   {
     number: 5,
     name: "Jacque",
-    image: "./photos/jacque.jpeg"
+    image: "./photos/jacque.jpg"
   },
   {
     number: 6,
     name: "Dimas Rennó",
-    image: "./photos/dimas.jpeg"
+    image: "./photos/dimas.jpg"
   },
   {
     number: 7,
     name: "Mateus Campos",
-    image: "./photos/mateuscampos.jpeg"
+    image: "./photos/mateuscampos.jpg"
   },
   {
     number: 8,
-    name: "Tio Telmo",
-    image: "./photos/telmo.jpeg"
+    name: "Telmo Campos",
+    image: "./photos/telmo.jpg"
   },
   {
     number: 9,
-    name: "Desi",
-    image: "./photos/desi.jpeg"
+    name: "Desirre",
+    image: "./photos/desi.jpg"
   },
   {
     number: 10,
     name: "Dona Fiica",
-    image: "./photos/donafiica.jpeg"
+    image: "./photos/donafiica.jpg"
   },
   {
     number: 11,
     name: "Dona Irma",
-    image: "./photos/irma.jpeg"
+    image: "./photos/irma.jpg"
   },
   {
     number: 12,
     name: "Sandra Almeida",
-    image: "./photos/sanalmeida.jpeg"
+    image: "./photos/sanalmeida.jpg"
   },
   {
     number: 13,
@@ -82,17 +82,17 @@ const rifa = [
   {
     number: 17,
     name: "Camila Liguori",
-    image: "./photos/camilaliguori.jpeg"
+    image: "./photos/camilaliguori.jpg"
   },
   {
     number: 18,
     name: "Silas",
-    image: "./photos/silas.jpeg"
+    image: "./photos/silas.jpg"
   },
   {
     number: 19,
     name: "Aline e João Victor",
-    image: "./photos/alinerenno.jpeg"
+    image: "./photos/alinerenno.jpg"
   },
   {
     number: 20,
@@ -101,8 +101,8 @@ const rifa = [
   },
   {
     number: 21,
-    name: "Tia Cristina",
-    image: "./photos/cristinarenno.jpeg"
+    name: "Cristina Rennó",
+    image: "./photos/cristinarenno.jpg"
   },
   {
     number: 22,
@@ -112,7 +112,7 @@ const rifa = [
   {
     number: 23,
     name: "Pinduca",
-    image: "./photos/pinduca.jpeg"
+    image: "./photos/pinduca.jpg"
   },
   {
     number: 24,
@@ -122,17 +122,17 @@ const rifa = [
   {
     number: 25,
     name: "Lais Rennó",
-    image: "./photos/laisrenno.jpeg"
+    image: "./photos/laisrenno.jpg"
   },
   {
     number: 26,
-    name: "Erika Fonoaudióloga",
-    image: "./photos/erikafono.jpeg"
+    name: "Erika (Fono)",
+    image: "./photos/erikafono.jpg"
   },
   {
     number: 27,
     name: "Vera e Raimundo",
-    image: "./photos/vera.jpeg"
+    image: "./photos/vera.jpg"
   },
   {
     number: 28,
@@ -142,12 +142,12 @@ const rifa = [
   {
     number: 29,
     name: "Elisa Rennó",
-    image: "./photos/elisarenno.jpeg"
+    image: "./photos/elisarenno.jpg"
   },
   {
     number: 30,
-    name: "Avó Benedita",
-    image: "./photos/lucasrenno.jpeg"
+    name: "Benedita Rennó",
+    image: "./photos/lucasrenno.jpg"
   },
   {
     number: 31,
@@ -187,22 +187,22 @@ const rifa = [
   {
     number: 38,
     name: "Fernanda Guedes",
-    image: "./photos/fernandaguedes.jpeg"
+    image: "./photos/fernandaguedes.jpg"
   },
   {
     number: 39,
     name: "Camila Pierino",
-    image: "./photos/camilapierino.jpeg"
+    image: "./photos/camilapierino.jpg"
   },
   {
     number: 40,
-    name: "Avô Lucas",
-    image: "./photos/lucasrenno.jpeg"
+    name: "Lucas Grilo Rennó",
+    image: "./photos/lucasrenno.jpg"
   },
   {
     number: 41,
     name: "Mateus Campos",
-    image: "./photos/mateuscampos.jpeg"
+    image: "./photos/mateuscampos.jpg"
   },
   {
     number: 42,
@@ -242,17 +242,17 @@ const rifa = [
   {
     number: 49,
     name: "Gabriel Baby",
-    image: "./photos/baby.jpeg"
+    image: "./photos/baby.jpg"
   },
   {
     number: 50,
     name: "Olavo, Hebe e Cecília",
-    image: "./photos/olavohebececilia.jpeg"
+    image: "./photos/olavohebececilia.jpg"
   },
   {
     number: 51,
     name: "Ellen",
-    image: "./photos/ellen.jpeg"
+    image: "./photos/ellen.jpg"
   },
   {
     number: 52,
@@ -262,37 +262,37 @@ const rifa = [
   {
     number: 53,
     name: "Guilherme Lipinho",
-    image: "./photos/guilipinho.jpeg"
+    image: "./photos/guilipinho.jpg"
   },
   {
     number: 54,
     name: "João Rios",
-    image: "./photos/joaorios.jpeg"
+    image: "./photos/joaorios.jpg"
   },
   {
     number: 55,
-    name: "Clara e Renan",
+    name: "Clara Rios",
     image: "./photos/clara.jpg"
   },
   {
     number: 56,
     name: "Marcela Pimentel",
-    image: "./photos/marcelarocha.jpeg"
+    image: "./photos/marcelarocha.jpg"
   },
   {
     number: 57,
     name: "Jael",
-    image: "./photos/jael.jpeg"
+    image: "./photos/jael.jpg"
   },
   {
     number: 58,
     name: "Eneida",
-    image: "./photos/eneida.jpeg"
+    image: "./photos/eneida.jpg"
   },
   {
     number: 59,
-    name: "Tio Telmo",
-    image: "./photos/telmo.jpeg"
+    name: "Telmo Campos",
+    image: "./photos/telmo.jpg"
   },
   {
     number: 60,
@@ -302,22 +302,22 @@ const rifa = [
   {
     number: 61,
     name: "Renata Monteiro",
-    image: "./photos/renatamonteiro.jpeg"
+    image: "./photos/renatamonteiro.jpg"
   },
   {
     number: 62,
     name: "João Gabriel",
-    image: "./photos/joaogabriel.jpeg"
+    image: "./photos/joaogabriel.jpg"
   },
   {
     number: 63,
-    name: "Tia Cristina",
-    image: "./photos/cristinarenno.jpeg"
+    name: "Cristina Rennó",
+    image: "./photos/cristinarenno.jpg"
   },
   {
     number: 64,
     name: "Eneida",
-    image: "./photos/eneida.jpeg"
+    image: "./photos/eneida.jpg"
   },
   {
     number: 65,
@@ -327,12 +327,12 @@ const rifa = [
   {
     number: 66,
     name: "Luscas",
-    image: "./photos/luscas.jpeg"
+    image: "./photos/luscas.jpg"
   },
   {
     number: 67,
     name: "Mateus Campos",
-    image: "./photos/mateuscampos.jpeg"
+    image: "./photos/mateuscampos.jpg"
   },
   {
     number: 68,
@@ -344,7 +344,6 @@ const rifa = [
     name: "Rafael Pereira",
     image: "./photos/rafael-pereira.jpg"
   },
-  
   {
     number: 70,
     name: "Caio Branco",
@@ -353,7 +352,7 @@ const rifa = [
   {
     number: 71,
     name: "Samuelzinho",
-    image: "./photos/samuelzinho.jpeg"
+    image: "./photos/samuelzinho.jpg"
   },
   {
     number: 72,
@@ -383,7 +382,7 @@ const rifa = [
   {
     number: 77,
     name: "Jacque",
-    image: "./photos/jacque.jpeg"
+    image: "./photos/jacque.jpg"
   },
   {
     number: 78,
@@ -403,17 +402,17 @@ const rifa = [
   {
     number: 81,
     name: "Fernanda Guedes",
-    image: "./photos/fernandaguedes.jpeg"
+    image: "./photos/fernandaguedes.jpg"
   },
   {
     number: 82,
-    name: "Avô Lucas",
-    image: "./photos/lucasrenno.jpeg"
+    name: "Lucas Grilo Rennó",
+    image: "./photos/lucasrenno.jpg"
   },
   {
     number: 83,
     name: "Mateus Campos",
-    image: "./photos/mateuscampos.jpeg"
+    image: "./photos/mateuscampos.jpg"
   },
   {
     number: 84,
@@ -423,7 +422,7 @@ const rifa = [
   {
     number: 85,
     name: "João Rios",
-    image: "./photos/joaorios.jpeg"
+    image: "./photos/joaorios.jpg"
   },
   {
     number: 86,
@@ -433,7 +432,7 @@ const rifa = [
   {
     number: 87,
     name: "Eneida",
-    image: "./photos/eneida.jpeg"
+    image: "./photos/eneida.jpg"
   },
   {
     number: 88,
@@ -443,13 +442,13 @@ const rifa = [
   {
     number: 89,
     name: "Stefânia",
-    image: "./photos/stefania.jpeg"
+    image: "./photos/stefania.jpg"
   },
 
   {
     number: 90,
-    name: "Avó Benedita",
-    image: "./photos/lucasrenno.jpeg"
+    name: "Benedita Rennó",
+    image: "./photos/lucasrenno.jpg"
   },
   {
     number: 91,
@@ -464,7 +463,7 @@ const rifa = [
   {
     number: 93,
     name: "Karol",
-    image: "./photos/karol.jpeg"
+    image: "./photos/karol.jpg"
   },
   {
     number: 94,
@@ -494,12 +493,12 @@ const rifa = [
   {
     number: 99,
     name: "Ricardo William",
-    image: "./photos/ricardowillian.jpeg"
+    image: "./photos/ricardowillian.jpg"
   },
   {
     number: 100,
     name: "Aline Martins",
-    image: "./photos/alinemartins.jpeg"
+    image: "./photos/alinemartins.jpg"
   },
   {
     number: 101,
@@ -514,37 +513,37 @@ const rifa = [
   {
     number: 103,
     name: "Mariana Pereira",
-    image: "./photos/marianalima.jpeg"
+    image: "./photos/marianalima.jpg"
   },
   {
     number: 104,
     name: "Lais Ribeiro Rios",
-    image: "./photos/laisribeirorios.jpeg"
+    image: "./photos/laisribeirorios.jpg"
   },
   {
     number: 105,
     name: "Lais Ribeiro Rios",
-    image: "./photos/laisribeirorios.jpeg"
+    image: "./photos/laisribeirorios.jpg"
   },
   {
     number: 106,
     name: "Davi Moraes",
-    image: "./photos/davimoraes.jpeg"
+    image: "./photos/davimoraes.jpg"
   },
   {
     number: 107,
     name: "Lais Ribeiro Rios",
-    image: "./photos/laisribeirorios.jpeg"
+    image: "./photos/laisribeirorios.jpg"
   },
   {
     number: 108,
     name: "Lais Ribeiro Rios",
-    image: "./photos/laisribeirorios.jpeg"
+    image: "./photos/laisribeirorios.jpg"
   },
   {
     number: 109,
     name: "Nutella (Mariana e Davi)",
-    image: "./photos/nutella.jpeg"
+    image: "./photos/nutella.jpg"
   },
   {
     number: 110,
