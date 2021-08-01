@@ -37,6 +37,16 @@ const WinnerContainer = styled.div`
     font-weight: unset;
     margin-left: 2rem;
     text-align: right;
+    clear: both;
+  }
+
+  @media screen and (max-width: 768px) {
+    display: block;
+
+    p.congrats {
+      text-align: center;
+      margin-top: 1rem;
+    }
   }
 `;
 

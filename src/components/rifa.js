@@ -196,7 +196,7 @@ const rifa = [
   },
   {
     number: 40,
-    name: "Lucas Grilo Rennó",
+    name: "Lucas Grillo Rennó",
     image: "./photos/lucasrenno.jpg"
   },
   {
@@ -286,7 +286,7 @@ const rifa = [
   },
   {
     number: 58,
-    name: "Eneida",
+    name: "Eneida Rennó",
     image: "./photos/eneida.jpg"
   },
   {
@@ -316,7 +316,7 @@ const rifa = [
   },
   {
     number: 64,
-    name: "Eneida",
+    name: "Eneida Rennó",
     image: "./photos/eneida.jpg"
   },
   {
@@ -406,7 +406,7 @@ const rifa = [
   },
   {
     number: 82,
-    name: "Lucas Grilo Rennó",
+    name: "Lucas Grillo Rennó",
     image: "./photos/lucasrenno.jpg"
   },
   {
@@ -431,7 +431,7 @@ const rifa = [
   },
   {
     number: 87,
-    name: "Eneida",
+    name: "Eneida Rennó",
     image: "./photos/eneida.jpg"
   },
   {

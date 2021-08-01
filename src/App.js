@@ -79,13 +79,6 @@ function App() {
         {stateApp === "sorting" && "Sorteando"}
         {stateApp === "again" && "Sortear Novamente"}
       </CTA>
-
-      {People.map((juquinha) => (
-        <div style={{ display: "flex", flexDirection: "row", alignItems: "center", padding: "4px 0" }} >
-          <img src={juquinha.image} alt={juquinha.name} style={{ maxWidth: 50, marginRight: 8 }} />
-          <p>{juquinha.name}</p>
-        </div>
-      ))}
     </AppContainer>
   );
 }
