@@ -86,8 +86,8 @@ const rifa = [
   },
   {
     number: 18,
-    name: "Silas",
-    image: "./photos/silas.jpg"
+    name: "Esse bebê fofo",
+    image: "./photos/samuelzinho.jpg"
   },
   {
     number: 19,
@@ -281,13 +281,13 @@ const rifa = [
   },
   {
     number: 57,
-    name: "Jael",
-    image: "./photos/jael.jpg"
+    name: "Tati",
+    image: "./photos/tati.jpg"
   },
   {
     number: 58,
-    name: "Eneida Rennó",
-    image: "./photos/eneida.jpg"
+    name: "Eneida e Sérgio Rennó",
+    image: "./photos/eneida-sergio.jpg"
   },
   {
     number: 59,
@@ -316,8 +316,8 @@ const rifa = [
   },
   {
     number: 64,
-    name: "Eneida Rennó",
-    image: "./photos/eneida.jpg"
+    name: "Eneida e Sérgio Rennó",
+    image: "./photos/eneida-sergio.jpg"
   },
   {
     number: 65,
@@ -431,8 +431,8 @@ const rifa = [
   },
   {
     number: 87,
-    name: "Eneida Rennó",
-    image: "./photos/eneida.jpg"
+    name: "Eneida e Sérgio Rennó",
+    image: "./photos/eneida-sergio.jpg"
   },
   {
     number: 88,
