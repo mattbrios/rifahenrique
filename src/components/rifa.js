@@ -86,8 +86,8 @@ const rifa = [
   },
   {
     number: 18,
-    name: "Esse bebê fofo",
-    image: "./photos/samuelzinho.jpg"
+    name: "Camila Guimarães",
+    image: "./photos/camilaguimaraes.jpg"
   },
   {
     number: 19,
@@ -549,6 +549,11 @@ const rifa = [
     number: 110,
     name: "Clarissa",
     image: "./photos/clarissa.jpg"
+  },
+  {
+    number: 111,
+    name: "Karen",
+    image: "./photos/karen.jpg"
   },
 ]
 

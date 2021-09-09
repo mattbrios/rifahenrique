@@ -44,7 +44,7 @@ function App() {
       // - Como tem somente números inteiros e não tem número zero no sorteio, usa-se Math.ceil para arredondar pra cima.
       // *** Lógica de realização do sorteio.
       setWinnerNumber( Math.ceil(Math.random() * People.length) );
-    }, 3000);
+    }, 2100);
   }
 
   return (
@@ -55,7 +55,7 @@ function App() {
         <CountUp
           start={0}
           end={People.length}
-          duration={2.75}
+          duration={2}
           delay={0}
           prefix="Sorteando: "
         >
