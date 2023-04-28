@@ -49,7 +49,7 @@ function App() {
 
   return (
     <AppContainer>
-      <img src={Logo} alt="Chá Rifa do Henrique" style={{ maxWidth: '300px', marginBottom: '1rem' }} />
+      <img src={Logo} alt="Chá Rifa do Edu" style={{ maxWidth: '300px', marginBottom: '1rem' }} />
 
       {stateApp === "sorting" && (
         <CountUp
