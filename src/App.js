@@ -1,7 +1,7 @@
 import './styles/globals.css';
 import styled from 'styled-components';
 
-import Logo from './assets/cha-logo.png';
+import Logo from './assets/eduardo.png';
 import { CTA } from './components/CTA';
 import People from './components/rifa';
 import { Winner } from './components/Winner';
@@ -49,7 +49,13 @@ function App() {
 
   return (
     <AppContainer>
-      <img src={Logo} alt="Chá Rifa do Edu" style={{ maxWidth: '300px', marginBottom: '1rem' }} />
+      <img
+        src={Logo} alt="Chá Rifa do Eduardo"
+        style={{ 
+          maxWidth: '240px', 
+          marginBottom: '1rem',
+          filter: 'drop-shadow(0 4px 24px rgba(255, 255, 255, 0.2))'
+        }} />
 
       {stateApp === "sorting" && (
         <CountUp

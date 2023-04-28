@@ -6,17 +6,17 @@ const CustomButton = styled.button`
   margin: 2rem 0;
   border: none;
   border-radius: 999px;
-  box-shadow: 0 2px 4px 0px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 4px 16px 0px rgba(0, 0, 0, 0.25);
   font-weight: bolder;
   text-transform: uppercase;
   font-size: 1rem;
-  color: var(--white);
-  background-color: var(--text);
+  color: var(--black);
+  background-color: var(--button);
   cursor: pointer;
   transition: filter 0.25s;
 
   &:hover:not(:disabled) {
-    filter: brightness(1.5);
+    filter: brightness(1.1);
   }
 
   &:disabled {

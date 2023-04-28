@@ -1,559 +1,603 @@
 const rifa = [
   {
     number: 1,
-    name: "Rafael Pereira",
-    image: "./photos/rafael-pereira.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 2,
-    name: "Edilene",
-    image: "./photos/edilene.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 3,
-    name: "Paula prima torta",
-    image: "./photos/paula.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 4,
-    name: "Ana Consoli",
-    image: "./photos/anaconsoli.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 5,
-    name: "Jacque",
-    image: "./photos/jacque.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 6,
-    name: "Dimas Rennó",
-    image: "./photos/dimas.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 7,
-    name: "Mateus Campos",
-    image: "./photos/mateuscampos.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 8,
-    name: "Telmo Campos",
-    image: "./photos/telmo.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 9,
-    name: "Desirre",
-    image: "./photos/desi.jpg"
+    name: "Néia",
+    image: "./photos/neia.jpg"
   },
   {
     number: 10,
-    name: "Dona Fiica",
-    image: "./photos/donafiica.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 11,
-    name: "Dona Irma",
-    image: "./photos/irma.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 12,
-    name: "Sandra Almeida",
-    image: "./photos/sanalmeida.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 13,
-    name: "Lavínia Rennó",
-    image: "./photos/laviniarenno.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 14,
-    name: "Filipe Rios",
-    image: "./photos/filipe.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 15,
-    name: "Fábio, Michelle e Laurinha",
-    image: "./photos/fabiomilaurinha.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 16,
-    name: "Laura Rennó",
-    image: "./photos/laurarenno.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 17,
-    name: "Camila Liguori",
-    image: "./photos/camilaliguori.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 18,
-    name: "Camila Guimarães",
-    image: "./photos/camilaguimaraes.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 19,
-    name: "Aline e João Victor",
-    image: "./photos/alinerenno.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 20,
-    name: "Erika Tsuchiya Okyama",
-    image: "./photos/erikaokyama.jpg"
+    name: "Néia",
+    image: "./photos/neia.jpg"
   },
   {
     number: 21,
-    name: "Cristina Rennó",
-    image: "./photos/cristinarenno.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 22,
-    name: "Sandra Rennó",
-    image: "./photos/sandrarenno.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 23,
-    name: "Pinduca",
-    image: "./photos/pinduca.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 24,
-    name: "Pedro Guriguri",
-    image: "./photos/pedroguriguri.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 25,
-    name: "Lais Rennó",
-    image: "./photos/laisrenno.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 26,
-    name: "Erika (Fono)",
-    image: "./photos/erikafono.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 27,
-    name: "Vera e Raimundo",
-    image: "./photos/vera.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 28,
-    name: "Rafael Pereira",
-    image: "./photos/rafael-pereira.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 29,
-    name: "Elisa Rennó",
-    image: "./photos/elisarenno.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 30,
-    name: "Benedita Rennó",
-    image: "./photos/lucasrenno.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 31,
-    name: "Ana Consoli",
-    image: "./photos/anaconsoli.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 32,
-    name: "Eliza Branco",
-    image: "./photos/elizabranco.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 33,
-    name: "Sandra Rennó",
-    image: "./photos/sandrarenno.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 34,
-    name: "Marcos Duarte",
-    image: "./photos/marcosdduarte.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 35,
-    name: "Marcos Duarte",
-    image: "./photos/marcosdduarte.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 36,
-    name: "Marcos Duarte",
-    image: "./photos/marcosdduarte.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 37,
-    name: "Marcos Duarte",
-    image: "./photos/marcosdduarte.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 38,
-    name: "Fernanda Guedes",
-    image: "./photos/fernandaguedes.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 39,
-    name: "Camila Pierino",
-    image: "./photos/camilapierino.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 40,
-    name: "Lucas Grillo Rennó",
-    image: "./photos/lucasrenno.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 41,
-    name: "Mateus Campos",
-    image: "./photos/mateuscampos.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 42,
-    name: "Aloisio Ribeiro Rios",
-    image: "./photos/aloisio.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 43,
-    name: "Aloisio Ribeiro Rios",
-    image: "./photos/aloisio.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 44,
-    name: "Aloisio Ribeiro Rios",
-    image: "./photos/aloisio.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 45,
-    name: "Aloisio Ribeiro Rios",
-    image: "./photos/aloisio.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 46,
-    name: "Aloisio Ribeiro Rios",
-    image: "./photos/aloisio.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 47,
-    name: "Rafael Pereira",
-    image: "./photos/rafael-pereira.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 48,
-    name: "Ralf",
-    image: "./photos/ralf.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 49,
-    name: "Gabriel Baby",
-    image: "./photos/baby.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 50,
-    name: "Olavo, Hebe e Cecília",
-    image: "./photos/olavohebececilia.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 51,
-    name: "Ellen",
-    image: "./photos/ellen.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 52,
-    name: "Laura Rennó",
-    image: "./photos/laurarenno.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 53,
-    name: "Guilherme Lipinho",
-    image: "./photos/guilipinho.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 54,
-    name: "João Rios",
-    image: "./photos/joaorios.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 55,
-    name: "Clara Rios",
-    image: "./photos/clara.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 56,
-    name: "Marcela Pimentel",
-    image: "./photos/marcelarocha.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 57,
-    name: "Tati",
-    image: "./photos/tati.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 58,
-    name: "Eneida e Sérgio Rennó",
-    image: "./photos/eneida-sergio.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 59,
-    name: "Telmo Campos",
-    image: "./photos/telmo.jpg"
+    name: "Néia",
+    image: "./photos/neia.jpg"
   },
   {
     number: 60,
-    name: "Eduardo Tamaki",
-    image: "./photos/tamaki.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 61,
-    name: "Renata Monteiro",
-    image: "./photos/renatamonteiro.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 62,
-    name: "João Gabriel",
-    image: "./photos/joaogabriel.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 63,
-    name: "Cristina Rennó",
-    image: "./photos/cristinarenno.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 64,
-    name: "Eneida e Sérgio Rennó",
-    image: "./photos/eneida-sergio.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 65,
-    name: "Pâm",
-    image: "./photos/pam.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 66,
-    name: "Luscas",
-    image: "./photos/luscas.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 67,
-    name: "Mateus Campos",
-    image: "./photos/mateuscampos.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 68,
-    name: "Eduardo Tamaki",
-    image: "./photos/tamaki.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 69,
-    name: "Rafael Pereira",
-    image: "./photos/rafael-pereira.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 70,
-    name: "Caio Branco",
-    image: "./photos/caio.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 71,
-    name: "Samuelzinho",
-    image: "./photos/samuelzinho.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 72,
-    name: "Lavínia Rennó",
-    image: "./photos/laviniarenno.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 73,
-    name: "Néia",
-    image: "./photos/neia.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 74,
-    name: "Néia",
-    image: "./photos/neia.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 75,
-    name: "Néia",
-    image: "./photos/neia.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 76,
+    name: "",
+    image: ""
+  },
+  {
+    number: 77,
+    name: "",
+    image: ""
+  },
+  {
+    number: 78,
+    name: "",
+    image: ""
+  },
+  {
+    number: 79,
+    name: "",
+    image: ""
+  },
+  {
+    number: 80,
+    name: "",
+    image: ""
+  },
+  {
+    number: 81,
+    name: "",
+    image: ""
+  },
+  {
+    number: 82,
+    name: "",
+    image: ""
+  },
+  {
+    number: 83,
+    name: "",
+    image: ""
+  },
+  {
+    number: 84,
+    name: "",
+    image: ""
+  },
+  {
+    number: 85,
+    name: "",
+    image: ""
+  },
+  {
+    number: 86,
+    name: "",
+    image: ""
+  },
+  {
+    number: 87,
+    name: "",
+    image: ""
+  },
+  {
+    number: 88,
     name: "Néia",
     image: "./photos/neia.jpg"
   },
   {
-    number: 77,
-    name: "Jacque",
-    image: "./photos/jacque.jpg"
-  },
-  {
-    number: 78,
-    name: "Victo Rennó",
-    image: "./photos/victo.jpg"
-  },
-  {
-    number: 79,
-    name: "Fábio, Michelle e Laurinha",
-    image: "./photos/fabiomilaurinha.jpg"
-  },
-  {
-    number: 80,
-    name: "Samuel Campos",
-    image: "./photos/samuelcampos.jpg"
-  },
-  {
-    number: 81,
-    name: "Fernanda Guedes",
-    image: "./photos/fernandaguedes.jpg"
-  },
-  {
-    number: 82,
-    name: "Lucas Grillo Rennó",
-    image: "./photos/lucasrenno.jpg"
-  },
-  {
-    number: 83,
-    name: "Mateus Campos",
-    image: "./photos/mateuscampos.jpg"
-  },
-  {
-    number: 84,
-    name: "Thiago Henrique",
-    image: "./photos/thiago.jpg"
-  },
-  {
-    number: 85,
-    name: "João Rios",
-    image: "./photos/joaorios.jpg"
-  },
-  {
-    number: 86,
-    name: "Fábio, Michelle e Laurinha",
-    image: "./photos/fabiomilaurinha.jpg"
-  },
-  {
-    number: 87,
-    name: "Eneida e Sérgio Rennó",
-    image: "./photos/eneida-sergio.jpg"
-  },
-  {
-    number: 88,
-    name: "Victo Rennó",
-    image: "./photos/victo.jpg"
-  },
-  {
     number: 89,
-    name: "Stefânia",
-    image: "./photos/stefania.jpg"
+    name: "",
+    image: ""
   },
-
   {
     number: 90,
-    name: "Benedita Rennó",
-    image: "./photos/lucasrenno.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 91,
-    name: "Thiago Henrique",
-    image: "./photos/thiago.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 92,
-    name: "Donato Medeiros",
-    image: "./photos/donato.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 93,
-    name: "Karol",
-    image: "./photos/karol.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 94,
-    name: "Erika Tsuchiya Okyama",
-    image: "./photos/erikaokyama.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 95,
-    name: "Donato Medeiros",
-    image: "./photos/donato.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 96,
-    name: "Donato Medeiros",
-    image: "./photos/donato.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 97,
-    name: "Donato Medeiros",
-    image: "./photos/donato.jpg"
+    name: "Desirrêe Dias",
+    image: "./photos/desi.jpg"
   },
   {
     number: 98,
-    name: "Vivi",
-    image: "./photos/vivi.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 99,
-    name: "Ricardo William",
-    image: "./photos/ricardowillian.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 100,
-    name: "Aline Martins",
-    image: "./photos/alinemartins.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 101,
-    name: "Felipe Atanásio",
-    image: "./photos/felipeatanasio.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 102,
-    name: "Clarissa",
-    image: "./photos/clarissa.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 103,
-    name: "Mariana Pereira",
-    image: "./photos/marianalima.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 104,
-    name: "Lais Ribeiro Rios",
-    image: "./photos/laisribeirorios.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 105,
-    name: "Lais Ribeiro Rios",
-    image: "./photos/laisribeirorios.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 106,
-    name: "Davi Moraes",
-    image: "./photos/davimoraes.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 107,
-    name: "Lais Ribeiro Rios",
-    image: "./photos/laisribeirorios.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 108,
-    name: "Lais Ribeiro Rios",
-    image: "./photos/laisribeirorios.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 109,
-    name: "Nutella (Mariana e Davi)",
-    image: "./photos/nutella.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 110,
-    name: "Clarissa",
-    image: "./photos/clarissa.jpg"
+    name: "",
+    image: ""
   },
   {
     number: 111,
-    name: "Karen",
-    image: "./photos/karen.jpg"
+    name: "",
+    image: ""
+  },
+  {
+    number: 112,
+    name: "",
+    image: ""
+  },
+  {
+    number: 113,
+    name: "",
+    image: ""
+  },
+  {
+    number: 114,
+    name: "",
+    image: ""
+  },
+  {
+    number: 115,
+    name: "",
+    image: ""
+  },
+  {
+    number: 116,
+    name: "",
+    image: ""
+  },
+  {
+    number: 117,
+    name: "",
+    image: ""
+  },
+  {
+    number: 118,
+    name: "",
+    image: ""
+  },
+  {
+    number: 119,
+    name: "",
+    image: ""
+  },
+  {
+    number: 120,
+    name: "",
+    image: ""
   },
 ]
 

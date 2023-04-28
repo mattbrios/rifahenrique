@@ -7,13 +7,15 @@
 
 body {
   background: var(--background);
-  color: var(--text);
+  color: var(--white);
 }
 
 :root {
   --white: #FFF;
-  --background: #d1effd;
+  --black: #212121;
+  --background: #024881;
   --text: #455a64;
   --yellow: #ce910f;
   --disabled: #B0BEC5;
+  --button: #3DD2A2;
 }

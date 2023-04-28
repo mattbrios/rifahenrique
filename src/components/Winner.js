@@ -8,10 +8,12 @@ const WinnerContainer = styled.div`
   justify-content: space-between;
 
   width: 100%;
+  max-width: 960px;
   background-color: rgba(255, 255, 255, 0.25);
-  padding: 1rem;
+  padding: 1.5rem;
   box-shadow: 0 2px 4px 0 rgba( 0, 0, 0, 0.15);
   margin: 1rem 0;
+  border-radius: 1rem;
 
   div {
     display: flex;
@@ -63,7 +65,7 @@ export const Winner = ({person}) => {
         </p>
       </div>
       <p className="congrats">Parabéns!!!<br />
-      Você ganhou o prêmio de R$ 150,00!</p>
+      Você ganhou o prêmio de R$ 200,00!</p>
     </WinnerContainer>
   )
 }
