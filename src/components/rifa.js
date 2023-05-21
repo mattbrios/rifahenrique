@@ -162,7 +162,7 @@ const rifa = [
   {
     number: 33,
     name: "Júnior",
-    image: ""
+    image: "./photos/junior.jpg"
   },
   {
     number: 34,
@@ -247,7 +247,7 @@ const rifa = [
   {
     number: 50,
     name: "Rosângela",
-    image: ""
+    image: "./photos/rosangela.jpg"
   },
   {
     number: 51,
@@ -257,7 +257,7 @@ const rifa = [
   {
     number: 52,
     name: "Rosângela",
-    image: ""
+    image: "./photos/rosangela.jpg"
   },
   {
     number: 53,
@@ -337,7 +337,7 @@ const rifa = [
   {
     number: 68,
     name: "Raimundo",
-    image: ""
+    image: "./photos/raimundo.jpg"
   },
   {
     number: 69,
@@ -382,7 +382,7 @@ const rifa = [
   {
     number: 77,
     name: "Juliane",
-    image: ""
+    image: "./photos/juliane.jpg"
   },
   {
     number: 78,
@@ -552,7 +552,7 @@ const rifa = [
   {
     number: 111,
     name: "Júnior",
-    image: ""
+    image: "./photos/junior.jpg"
   },
   {
     number: 112,
