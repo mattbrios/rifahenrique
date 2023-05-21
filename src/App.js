@@ -53,8 +53,7 @@ function App() {
         src={Logo} alt="Chá Rifa do Eduardo"
         style={{ 
           maxWidth: '240px', 
-          marginBottom: '1rem',
-          filter: 'drop-shadow(0 4px 24px rgba(255, 255, 255, 0.2))'
+          marginBottom: '1rem'
         }} />
 
       {stateApp === "sorting" && (
