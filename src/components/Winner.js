@@ -18,7 +18,7 @@ const WinnerContainer = styled.div`
   div {
     display: flex;
     flex-direction: row;
-    align-items: center;
+    align-items: center;;
   }
 
   div.photo {
@@ -45,9 +45,15 @@ const WinnerContainer = styled.div`
   @media screen and (max-width: 768px) {
     display: block;
 
+    div {
+      flex-direction: column;
+      text-align: center;
+      gap: 0.5rem;
+    }
+
     p.congrats {
       text-align: center;
-      margin-top: 1rem;
+      margin: 1rem 0 0;
     }
   }
 `;

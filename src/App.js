@@ -27,11 +27,15 @@ const AppContainer = styled.div`
     border-top: 2px dashed var(--disabled);
     border-bottom: 2px dashed var(--disabled);
   }
+
+  @media screen and (max-width: 768px) {
+    padding: 0 1.5rem;
+  }
 `;
 
 function App() {
   const [stateApp, setStateApp] = useState('ready');
-  const [winnerNumber, setWinnerNumber] = useState();
+  const [winnerNumber, setWinnerNumber] = useState(0);
 
   const clickCTA = () => {
     setStateApp('sorting');
@@ -72,7 +76,7 @@ function App() {
         </CountUp>
       )}
 
-      {winnerNumber && stateApp !== "sorting" && (
+      {!!winnerNumber && winnerNumber > 0 && stateApp !== "sorting" && (
         <Winner person={People.filter((winner) => winner.number === winnerNumber)}/>
       )}
       

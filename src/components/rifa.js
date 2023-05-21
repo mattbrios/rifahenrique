@@ -2,7 +2,7 @@ const rifa = [
   {
     number: 1,
     name: "Heloisa Branco Duarte",
-    image: ""
+    image: "./photos/helo.jpg"
   },
   {
     number: 2,
@@ -17,7 +17,7 @@ const rifa = [
   {
     number: 4,
     name: "Laura Rostelato",
-    image: ""
+    image: "./photos/laurarostelato.jpg"
   },
   {
     number: 5,
@@ -32,7 +32,7 @@ const rifa = [
   {
     number: 7,
     name: "Letícia Rios",
-    image: ""
+    image: "./photos/leticiarios.jpg"
   },
   {
     number: 8,
@@ -47,7 +47,7 @@ const rifa = [
   {
     number: 10,
     name: "Thiago Martins",
-    image: ""
+    image: "./photos/thiago.jpg"
   },
   {
     number: 11,
@@ -62,7 +62,7 @@ const rifa = [
   {
     number: 13,
     name: "Liv",
-    image: ""
+    image: "./photos/liv.jpg"
   },
   {
     number: 14,
@@ -107,7 +107,7 @@ const rifa = [
   {
     number: 22,
     name: "Sandra Rennó",
-    image: ""
+    image: "./photos/sandrarenno.jpg"
   },
   {
     number: 23,
@@ -157,7 +157,7 @@ const rifa = [
   {
     number: 32,
     name: "Vó Benedita",
-    image: ""
+    image: "./photos/lucasrenno.jpg"
   },
   {
     number: 33,
@@ -177,12 +177,12 @@ const rifa = [
   {
     number: 36,
     name: "Tia Laisinha",
-    image: ""
+    image: "./photos/laisinha.jpg"
   },
   {
     number: 37,
     name: "Rodrigo Sussumu",
-    image: ""
+    image: "./photos/sussumu.jpg"
   },
   {
     number: 38,
@@ -192,7 +192,7 @@ const rifa = [
   {
     number: 39,
     name: "Rodrigo Sussumu",
-    image: ""
+    image: "./photos/sussumu.jpg"
   },
   {
     number: 40,
@@ -202,7 +202,7 @@ const rifa = [
   {
     number: 41,
     name: "Tia Laisinha",
-    image: ""
+    image: "./photos/laisinha.jpg"
   },
   {
     number: 42,
@@ -462,7 +462,7 @@ const rifa = [
   {
     number: 93,
     name: "Pedro Moraes",
-    image: ""
+    image: "./photos/pedro.jpg"
   },
   {
     number: 94,
@@ -496,8 +496,8 @@ const rifa = [
   },
   {
     number: 100,
-    name: "",
-    image: ""
+    name: "Caio Branco",
+    image: "./photos/caio.jpg"
   },
   {
     number: 101,
@@ -517,7 +517,7 @@ const rifa = [
   {
     number: 104,
     name: "Pâm",
-    image: ""
+    image: "./photos/pam.jpg"
   },
   {
     number: 105,
@@ -557,7 +557,7 @@ const rifa = [
   {
     number: 112,
     name: "Hebe Rios",
-    image: ""
+    image: "./photos/hebe.jpg"
   },
   {
     number: 113,
@@ -567,7 +567,7 @@ const rifa = [
   {
     number: 114,
     name: "Thiago Martins",
-    image: ""
+    image: "./photos/thiago.jpg"
   },
   {
     number: 115,
@@ -592,7 +592,7 @@ const rifa = [
   {
     number: 119,
     name: "Laura Rostelato",
-    image: ""
+    image: "./photos/laurarostelato.jpg"
   },
   {
     number: 120,
