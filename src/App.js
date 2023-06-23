@@ -35,20 +35,35 @@ const AppContainer = styled.div`
 
 function App() {
   const [stateApp, setStateApp] = useState('ready');
-  const [winnerNumber, setWinnerNumber] = useState(0);
+  const [winner, setWinner] = useState(0);
 
   const clickCTA = () => {
     setStateApp('sorting');
+
+    const juquinha = sorteador();
+    console.log(juquinha);
+    // setStateApp('again');
     
     setTimeout(() => {
       setStateApp('again');
-      
-      // *** Lógica de realização do sorteio.
-      // - Número flutuante randômico de zero a 1, vezes o número de participantes da rifa.
-      // - Como tem somente números inteiros e não tem número zero no sorteio, usa-se Math.ceil para arredondar pra cima.
-      // *** Lógica de realização do sorteio.
-      setWinnerNumber( Math.ceil(Math.random() * People.length) );
+      setWinner( sorteador() );
     }, 2100);
+  }
+
+  const sorteador = () => {
+    /**
+     * ===> Lógica de realização do sorteio.
+     * Número flutuante randômico de zero a 1, vezes o número de participantes da rifa.
+     * Como tem somente números inteiros e não tem número zero no sorteio, usa-se Math.ceil para arredondar pra cima.
+     * A condivicional chamando a recursividade da função é necessária caso não tenha sido vendida 100% das rifas e
+     * ainda possuir números/nomes vazios;
+    */
+    const numSorteado = Math.ceil(Math.random() * People.length);
+    const possibleWinner = People.filter(winner => winner.number === numSorteado);
+    if(possibleWinner[0].name === "") {
+      return sorteador();
+    }
+    return possibleWinner[0];
   }
 
   return (
@@ -76,8 +91,8 @@ function App() {
         </CountUp>
       )}
 
-      {!!winnerNumber && winnerNumber > 0 && stateApp !== "sorting" && (
-        <Winner person={People.filter((winner) => winner.number === winnerNumber)}/>
+      {!!winner && winner > 0 && stateApp !== "sorting" && (
+        <Winner person={winner}/>
       )}
       
       <CTA 
