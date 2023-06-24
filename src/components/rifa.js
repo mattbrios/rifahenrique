@@ -586,8 +586,8 @@ const rifa = [
   },
   {
     number: 118,
-    name: "",
-    image: ""
+    name: "Aline Martins",
+    image: "./photos/alinemartins.jpg"
   },
   {
     number: 119,
