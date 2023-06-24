@@ -59,15 +59,14 @@ const WinnerContainer = styled.div`
 `;
 
 export const Winner = ({person}) => {
-  let winner = person[0];
   return (
     <WinnerContainer>
       <div>
-        <div className="photo" style={{ backgroundImage: `url(${winner.image})` }}/>
+        <div className="photo" style={{ backgroundImage: `url(${person.image})` }}/>
         <p>
-          {`Nº ${winner.number}`}
+          {`Nº ${person.number}`}
           <br />
-          {`${winner.name}`}
+          {`${person.name}`}
         </p>
       </div>
       <p className="congrats">Parabéns!!!<br />

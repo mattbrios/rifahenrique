@@ -35,18 +35,15 @@ const AppContainer = styled.div`
 
 function App() {
   const [stateApp, setStateApp] = useState('ready');
-  const [winner, setWinner] = useState(0);
+  const [winner, setWinner] = useState({});
 
   const clickCTA = () => {
     setStateApp('sorting');
-
-    const juquinha = sorteador();
-    console.log(juquinha);
-    // setStateApp('again');
     
     setTimeout(() => {
       setStateApp('again');
-      setWinner( sorteador() );
+      const ganhador = sorteador();
+      setWinner( ganhador );
     }, 2100);
   }
 
@@ -91,7 +88,10 @@ function App() {
         </CountUp>
       )}
 
-      {!!winner && winner > 0 && stateApp !== "sorting" && (
+      {console.log('WINNER', winner)}
+      {console.log('WINNER OBJ', Object.keys(winner).length)}
+
+      { Object.keys(winner).length > 0 && stateApp !== "sorting" && (
         <Winner person={winner}/>
       )}
       
