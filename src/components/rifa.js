@@ -446,8 +446,8 @@ const rifa = [
   },
   {
     number: 90,
-    name: "",
-    image: ""
+    name: "Mariana Iannaconi",
+    image: "./photos/marianaiannaconi.jpg"
   },
   {
     number: 91,
@@ -561,8 +561,8 @@ const rifa = [
   },
   {
     number: 113,
-    name: "",
-    image: ""
+    name: "Mariana Iannaconi",
+    image: "./photos/marianaiannaconi.jpg"
   },
   {
     number: 114,
